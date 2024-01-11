@@ -1,2 +1,2 @@
 # MyRepo1
-This is my repo
+This is my test/dummy repository
